@@ -43,14 +43,7 @@
 
 ## 🔧 적용 기술
 
-### - 핵심 기술
 
-- 1차 인증 &nbsp; :&nbsp;  면허증 사진과 현재 인물의 사진 비교 
-- 2차 인증 &nbsp; :&nbsp;  Edge-device를 이용한 일정 시간 간격으로 얼굴 비교 후 어플 알림
-- AI-model &nbsp; :&nbsp;  Tensorflow, Keras와 OpenCV, Flask 등 다양한 기술을 활용한 모델 추론
-- Back-End Server &nbsp; :&nbsp;  AWS severless를 이용하며 모델 추론 및 어플로 결과 반환 자동화
-- Front-End App &nbsp; :&nbsp;  HTML, CSS, Javascript, node.js를 이용한 안드로이드 어플과 웹 홈페이지 제작
-- Edge Device &nbsp; :&nbsp; 2검증에 필요한 운전자 얼굴을 식별하는 웹캠+노트북 --> 추후 Edge Device 블랙박스 개발  
 
 ### - 개발 환경 
 <p>
@@ -68,7 +61,6 @@
     <img height=27em src="https://img.shields.io/badge/amazons3-%23569A31?logo=amazons3&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900?logo=awslambda&logoColor=white"/></a>&nbsp
-    <img height=27em src="https://img.shields.io/badge/Amazon%20API%20Gateway-%23FF4F8B?logo=amazonapigateway&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Firebase Cloud Messaging-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white"/></a>&nbsp
@@ -94,6 +86,14 @@
 
 </p>
 
+### - 핵심 기술
+
+- 1차 인증 &nbsp; :&nbsp;  면허증 사진과 현재 인물의 사진 비교 
+- 2차 인증 &nbsp; :&nbsp;  Edge-device를 이용한 일정 시간 간격으로 얼굴 비교 후 어플 알림
+- AI-model &nbsp; :&nbsp;  Tensorflow, Keras와 OpenCV, Flask 등 다양한 기술을 활용한 모델 추론
+- Back-End Server &nbsp; :&nbsp;  AWS severless를 이용하며 모델 추론 및 어플로 결과 반환 자동화
+- Front-End App &nbsp; :&nbsp;  HTML, CSS, Javascript, node.js를 이용한 안드로이드 어플과 웹 홈페이지 제작
+- Edge Device &nbsp; :&nbsp; 2검증에 필요한 운전자 얼굴을 식별하는 웹캠+노트북 --> 추후 Edge Device 블랙박스 개발  
 
 <br/>
 <br/>
@@ -145,7 +145,7 @@
 <br/>
 
 
-- **Front-End App &nbsp; : &nbsp; DRIVEAUTH**
+- Front-End App &nbsp; : &nbsp; **DRIVEAUTH**
     
     <div style="text-align:center">
     <img src="https://github.com/BITSdrive/.github/assets/126750984/4b4a4e74-fde4-4f6c-943d-ebaab250093d" alt="VideoSearcher" width = "300" height="300" />
@@ -176,4 +176,6 @@
 <br/>
 <br/>
 <br/>
+
+## **어플 영상**
 
