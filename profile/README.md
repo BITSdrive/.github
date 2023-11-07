@@ -5,7 +5,7 @@
 <br/>
 
 
-# BITS
+# <img width="50" alt="image" src="https://github.com/BITSdrive/.github/assets/126750984/5f88c11f-aed7-481b-bdb3-d5879e56dfae">BITS
 
 > Beyond Identification: Traveling Securely<br/>
 > 2023.08 ~ 2023.11 <br/>
@@ -45,18 +45,18 @@
 
 ### - 핵심 기술
 
-- 
+- 1차 인증 : 면허증 사진과 현재 인물의 사진
 - Tensorflow의 Keras와 OpenCV, FFmpeg 등 다양한 기술을 활용해 풍부한 메타데이터를 생성
-- HTML, CSS, Javascript를 이용한 웹 홈페이지 제작
+- HTML, CSS, Javascript, node.js를 이용한 안드로이드 어플과 웹 홈페이지 제작
 - 직접 개발한 Deep Rank 알고리즘을 활용하여 영상 검색의 정확도 향상
 
-###  개발 환경 
+### - 개발 환경 
 <p>
 <img height=27em src="https://img.shields.io/badge/Windows-%230078D4?logo=windows&logoColor=white"/></a>&nbsp
 <img height=27em src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white"/></a>&nbsp
 </p>
 
-###  개발 도구
+### - 개발 도구
 
 <p>
     <img height=27em src="https://img.shields.io/badge/tensorflow-%23FF6F00?logo=tensorflow&logoColor=white"/></a>&nbsp
@@ -65,6 +65,8 @@
     <img height=27em src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazonaws&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/amazons3-%23569A31?logo=amazons3&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900?logo=awslambda&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Amazon%20API%20Gateway-%23FF4F8B?logo=amazonapigateway&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Firebase Cloud Messaging-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white"/></a>&nbsp
@@ -74,17 +76,17 @@
     <img height=27em src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white"/></a>&nbsp
     <img height=27em src=""/></a>&nbsp
 
 </p>
 
-###  개발 언어
+### - 개발 언어
 <p>
     <img height=27em src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/css-%231572B6?logo=css3&logoColor=white"/></a>&nbsp
     <img height=27em src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white"/></a>&nbsp
-    <img height=27em src=""/></a>&nbsp
     <img height=27em src=""/></a>&nbsp
    
 
@@ -97,7 +99,7 @@
 
 
 
-## System Structure
+## **System Structure**
 
 
 <br/>
@@ -108,7 +110,10 @@
 
 
 - **AI-Model &nbsp; : &nbsp; ArcFace**
-  
+  >**ArcFace** 모델은 ArcFace 모델은 얼굴 인식 분야에서 뛰어난 성능을 보이는 딥러닝 모델입니다. &nbsp; 소프트맥스 손실 함수에 각도 마진을 추가하여, 클래스 간의 결정 경계를 더 명확하게 하고, 
+동시에 클래스 내의 특징을 더 긴밀하게 모으는 효과를 제공합니다. 이는 기존의 소프트맥스 손실 함수가 클래스 간 구별력을 최적화하는 데 한계가 있다는 점을 개선하여, 
+특히 얼굴 인식과 같은 정밀한 식별 작업에서 더 우수한 성능을 나타냅니다.
+
 <br/>
 <br/>
 <br/>
@@ -153,7 +158,7 @@
         - **1차 인증**을 위한 면허증과 현재 사진 업로드
         - *FireBase*를 이용한 모델 추론 결과 받은 후 알람
 
-## DRIVEAUTH App
+## **DRIVEAUTH** App
 
 | 1| 2| 3 | 4 |
 | :---: | :---: | :---: | :---: |
