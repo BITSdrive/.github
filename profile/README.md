@@ -45,12 +45,12 @@
 
 ### - 핵심 기술
 
-- 1차 인증 : 면허증 사진과 현재 인물의 사진 비교 
-- 2차 인증 : Edge-device를 이용한 일정 시간 간격으로 얼굴 비교 후 어플 알림
-- AI-model : Tensorflow, Keras와 OpenCV, Flask 등 다양한 기술을 활용한 모델 추론
-- Back-End Server : AWS severless를 이용하며 모델 추론 및 어플로 결과 반환 자동화
-- Front-End App : HTML, CSS, Javascript, node.js를 이용한 안드로이드 어플과 웹 홈페이지 제작
-- 직접 개발한 Deep Rank 알고리즘을 활용하여 영상 검색의 정확도 향상
+- 1차 인증 &nbsp; :&nbsp;  면허증 사진과 현재 인물의 사진 비교 
+- 2차 인증 &nbsp; :&nbsp;  Edge-device를 이용한 일정 시간 간격으로 얼굴 비교 후 어플 알림
+- AI-model &nbsp; :&nbsp;  Tensorflow, Keras와 OpenCV, Flask 등 다양한 기술을 활용한 모델 추론
+- Back-End Server &nbsp; :&nbsp;  AWS severless를 이용하며 모델 추론 및 어플로 결과 반환 자동화
+- Front-End App &nbsp; :&nbsp;  HTML, CSS, Javascript, node.js를 이용한 안드로이드 어플과 웹 홈페이지 제작
+- Edge Device &nbsp; :&nbsp; 2검증에 필요한 운전자 얼굴을 식별하는 웹캠+노트북 --> 추후 Edge Device 블랙박스 개발  
 
 ### - 개발 환경 
 <p>
