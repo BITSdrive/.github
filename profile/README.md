@@ -13,15 +13,7 @@
 
 <br/>
 
-## Abstract
-> 카 쉐어링 서비스에서 무면허 운전자(ex.면허증 도용)를 식별하기 위해 1차 검증(면허증 사진과
-> 현재 얼굴 사진 업로드) 와 2차 검증(운전자석에서 시간간격으로 실시간 얼굴 식별) 하는 시스템
-> 
-<br/>
-<br/>
-<br/>
-
-## 👩 팀 구성원
+## 👩 Team Members
 
 | 이름 | 소속 (`23기준) | github | 역할 |
 | --- | --- | --- | -- |
@@ -30,43 +22,80 @@
 | 김민경 | 금오공과대학교 메디컬it융합공학과 | [@mmiini](https://github.com/mmiini) | FrontEnd App, BackEnd Server|
 | 박소윤 | 금오공과대학교 메디컬it융합공학과 | [@sy0106](https://github.com/sy0106) | FrontEnd App, BackEnd Server |
 
+<br/>
+<br/>
+
+## Abstract
+> 카 쉐어링 서비스에서 무면허 운전자(ex.면허증 도용)를 식별하기 위해 1차 검증(면허증 사진과
+> 현재 얼굴 사진 업로드) 와 2차 검증(운전자석에서 시간간격으로 실시간 얼굴 식별) 하는 시스템
+> 
+<br/>
+
+
+## 개발배경
+>최근 카 쉐어링 서비스가 확대되면서, 무분별한 대여서비스로 미성년자인 대여자와 실제 운전자가 일치하지 않는 문제가 대두되고 있습니다. &nbsp;
+졸음운전 예방을 위한 얼굴인식 시스템 관련 연구는 활발하게 진행되고 있으나, 운전자 불일치에 기인한 무면허/음주 사고 관련 연구는 미비합니다. &nbsp;
+따라서, 카 쉐어링 서비스 중 발생할 수 있는 운전사고에 대처하기 위해 AI 영상인식 기술을 활용한 운전자 얼굴 식별 및 확인서비스 개발이 필요합니다. &nbsp; 
+또한 더 나아가 가정용 차량에서도 이런 기술을 탑재하여 최근에 큰 이슈였던 KIA boys와 같은 차량 도난 혹은 차량 내부 품목 도난 등의 문제를 해결할 수 있을 거라 기대 됩니다
 
 <br/>
 <br/>
-<br/>
 
-## 🚀 Stacks
+## 🔧 적용 기술
 
-### Infra
+### - 핵심 기술
 
+- 
+- Tensorflow의 Keras와 OpenCV, FFmpeg 등 다양한 기술을 활용해 풍부한 메타데이터를 생성
+- HTML, CSS, Javascript를 이용한 웹 홈페이지 제작
+- 직접 개발한 Deep Rank 알고리즘을 활용하여 영상 검색의 정확도 향상
+
+###  개발 환경 
 <p>
-  <img height=27em src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Firebase Cloud Messaging-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+<img height=27em src="https://img.shields.io/badge/Windows-%230078D4?logo=windows&logoColor=white"/></a>&nbsp
+<img height=27em src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white"/></a>&nbsp
 </p>
 
-### Database(DB)
+###  개발 도구
 
 <p>
-  <img height=27em src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/tensorflow-%23FF6F00?logo=tensorflow&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/github-%23181717?logo=github&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazonaws&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/amazons3-%23569A31?logo=amazons3&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Firebase Cloud Messaging-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white"/></a>&nbsp
+    <img height=27em src=""/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/opencv-%235C3EE8?logo=opencv&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
+    <img height=27em src=""/></a>&nbsp
+
 </p>
 
-### Frameworks
-
+###  개발 언어
 <p>
-  <img height=27em src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/css-%231572B6?logo=css3&logoColor=white"/></a>&nbsp
+    <img height=27em src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white"/></a>&nbsp
+    <img height=27em src=""/></a>&nbsp
+    <img height=27em src=""/></a>&nbsp
+   
+
 </p>
 
-### AI/DL
-
-<p>
-  <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
-  
-
 
 <br/>
 <br/>
 <br/>
+
+
 
 ## System Structure
 
