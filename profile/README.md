@@ -1,7 +1,7 @@
 
-<div style="text-align:center">
+<p align="center">
 <img width="400" alt="image" src="https://github.com/BITSdrive/.github/assets/126750984/5f88c11f-aed7-481b-bdb3-d5879e56dfae">
-</div>
+<p>
 <br/>
 
 
@@ -154,9 +154,9 @@
 
 - Front-End App &nbsp; : &nbsp; **DRIVEAUTH**
     
-    <div style="text-align:center">
+    <p align="center">
     <img src="https://github.com/BITSdrive/.github/assets/126750984/4b4a4e74-fde4-4f6c-943d-ebaab250093d" alt="VideoSearcher" width = "300" height="300" />
-    </div>
+    <p>
     
     <br/>
 
