@@ -139,15 +139,3 @@
 <br/>
 <br/>
 
-## 📽️ Demonstration Video
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=c2o72P_bTTw" title="Best of Baby - LSTM">
-          <img align="center" src="https://img.youtube.com/vi/c2o72P_bTTw/0.jpg" width="400">
-        </a>
-    </tr>
-  </tbody>
-</table>
