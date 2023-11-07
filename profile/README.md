@@ -5,7 +5,7 @@
 <br/>
 
 
-# <img width="50" alt="image" src="https://github.com/BITSdrive/.github/assets/126750984/5f88c11f-aed7-481b-bdb3-d5879e56dfae">BITS
+# <img width="30" alt="image" src="https://github.com/BITSdrive/AI-MODEL/assets/126750984/446d4c17-3968-44af-bc5c-58e59b878f8c"> &nbsp;BITS
 
 > Beyond Identification: Traveling Securely<br/>
 > 2023.08 ~ 2023.11 <br/>
