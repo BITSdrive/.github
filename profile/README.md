@@ -111,6 +111,7 @@
 
 ## **System Structure**
 
+![시스템 구조](https://github.com/BITSdrive/.github/assets/126750984/87658e7c-8c9a-438b-8cf5-c9fa04300f37)
 
 <br/>
 <br/>
@@ -185,5 +186,9 @@
 <br/>
 <br/>
 
-## **어플 영상**
+## **시연 영상**
+
+하단 이미지를 클릭하시면 영상을 시청하실 수 있습니다. (youtube)
+
+[<img src="https://github.com/BITSdrive/.github/assets/126750984/94477d7d-5a9b-4d32-8a10-69144ff79223" alt="VMeta"/>](https://youtu.be/5hpUttZ-xOY)
 
